@@ -1,4 +1,4 @@
-# Hi there 👋
+# Sahil Gupta
 
 <!--
 **hi5sahil/hi5sahil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,8 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-## ABOUT ME
 
 * ML / Data Scientist with experience in building and scaling Machine Learning and Analytics solutions for E-commerce & Physical Retail, Advertising Video On Demand (AVOD), Healthcare and Digital Payments
 

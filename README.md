@@ -25,9 +25,7 @@ Here are some ideas to get you started:
 
 * **EDUCATION** - Bachelors, **BITS Pilani** & Masters, **University of Minnesota**
 
-## WEBSITE
-
-### [hi5sahil.github.io](https://hi5sahil.github.io/tags/)
+## [GITHUB WEBSITE](https://hi5sahil.github.io/tags/)
 
 ## SKILLS
 
@@ -43,6 +41,4 @@ Here are some ideas to get you started:
 * **DevOps** - Unix, AWS (Redshift, Lambda, EC2, Sagemaker, Step Function, Cloud Formation), Oozie
 
 ## [RESUME](https://hi5sahil.github.io/resume/)
-
-## [GITHUB](https://hi5sahil.github.io/tags/)
 

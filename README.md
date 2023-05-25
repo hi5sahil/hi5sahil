@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 * **EDUCATION** - Bachelors, **BITS Pilani** & Masters, **University of Minnesota**
 
-## [GITHUB WEBSITE](https://hi5sahil.github.io/tags/)
+## [GITHUB WEBSITE </>](https://hi5sahil.github.io/tags/)
 
 ## SKILLS
 

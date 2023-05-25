@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-* ML / Data Scientist with experience in building and scaling Machine Learning and Analytics solutions for E-commerce & Physical Retail, Advertising Video On Demand (AVOD), Healthcare and Digital Payments
+* `ML / Data Scientist`{:.python} with experience in building and scaling Machine Learning and Analytics solutions for E-commerce & Physical Retail, Advertising Video On Demand (AVOD), Healthcare and Digital Payments
 
 * Result oriented and proactive in proposing and developing robust ML / Analytics solutions for business problems 
 

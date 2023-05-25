@@ -38,7 +38,7 @@ Here are some ideas to get you started:
 * **Data Science** - Python, R, Scala, Hadoop, Spark, SQL, Hive, RShiny, PyTorch, Scikit-Learn
 * **DevOps** - Unix, AWS (Redshift, Lambda, EC2, Sagemaker, Step Function, Cloud Formation), Oozie
 
-[![My Skills](https://skills.thijs.gg/icons?i=py,r,pytorch,scala,tensorflow,vscode,github)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=py,r,pytorch,scala,tensorflow,vscode,github,postgres,mysql,linux,aws)](https://skills.thijs.gg)
 
 ## [RESUME](https://hi5sahil.github.io/resume/)
 

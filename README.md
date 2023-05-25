@@ -1,12 +1,3 @@
----
-permalink: /about/
-title: "Hey there!"
-header:
-  overlay_color: "#333"
-  show_overlay_excerpt: false
-classes : wide
----
-
 # Hi there 👋
 
 <!--

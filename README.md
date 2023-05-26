@@ -16,11 +16,8 @@ Here are some ideas to get you started:
 -->
 
 * `ML / Data Scientist` with experience in building and scaling Machine Learning and Analytics solutions for E-commerce & Physical Retail, Advertising Video On Demand (AVOD), Healthcare and Digital Payments
-
 * Result oriented and proactive in proposing and developing robust ML / Analytics solutions for business problems 
-
 * And presenting to stakeholders in a simplified way to drive quantifiable improvements in business metrics
-
 * **EDUCATION** - Bachelors, **BITS Pilani** & Masters, **University of Minnesota**
 
 ## [GITHUB WEBSITE </>](https://hi5sahil.github.io/tags/)

@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 * And presenting to stakeholders in a simplified way to drive quantifiable improvements in business metrics
 * `EDUCATION` - Bachelors, `BITS Pilani` & Masters, `University of Minnesota`
 
-## [GITHUB WEBSITE </>](https://hi5sahil.github.io/tags/)
+## [GITHUB WEBSITE </>](https://hi5sahil.github.io/)
 
 ## SKILLS
 
